@@ -5,6 +5,6 @@ void main(void){
 <<<<<<< HEAD
     printf("cccc");
     printf("aaaa");
-    printf("aaaa");
+    printf("eeee");
     return;
 }
