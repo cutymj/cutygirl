@@ -4,7 +4,7 @@ void main(void){
 
 <<<<<<< HEAD
     printf("cccc");
-    printf("aaaa");
+    printf("dddd");
     printf("eeee");
     return;
 }
